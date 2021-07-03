@@ -1,0 +1,10 @@
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\bin\Debug\Teste_RFID.exe.config
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\bin\Debug\Teste_RFID.exe
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\bin\Debug\Teste_RFID.pdb
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.csprojAssemblyReference.cache
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.Form1.resources
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.Properties.Resources.resources
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.csproj.GenerateResource.cache
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.csproj.CoreCompileInputs.cache
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.exe
+c:\users\csu160\source\repos\Teste_RFID\Teste_RFID\obj\Debug\Teste_RFID.pdb
